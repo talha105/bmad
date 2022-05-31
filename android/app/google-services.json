@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "254533762674",
+    "project_id": "bmad-47fa5",
+    "storage_bucket": "bmad-47fa5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254533762674:android:a8b56b2cb25072ac3e8ceb",
+        "android_client_info": {
+          "package_name": "com.bmad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254533762674-o28ckvb8bmrqhd0gkjtgscelunvm6pkg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bmad",
+            "certificate_hash": "c2a63b1ecb0aea94a7b4d0890073099e9889f5bb"
+          }
+        },
+        {
+          "client_id": "254533762674-l02tkehr2okrsqbuh97vq0qu4150uodh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj_DF5-La_LXgSJ9NPzX73rYCQZ64VdCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254533762674-l02tkehr2okrsqbuh97vq0qu4150uodh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "254533762674-ja1fgpm3i3a700ojtsa9totvb4o5eb4c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Bmad"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
