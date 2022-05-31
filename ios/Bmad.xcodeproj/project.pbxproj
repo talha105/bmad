@@ -7,12 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
-		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		A668F8D29A0B7B267AB74AEE /* libPods-Bmad.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2FDB164BCCC1DD1C9F2DCDE2 /* libPods-Bmad.a */; };
 		BCAFA42B2845F7FD00B1B28E /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = BCAFA42A2845F7FD00B1B28E /* GoogleService-Info.plist */; };
+		BCAFA42D284616E500B1B28E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
+		BCAFA42E28461A8A00B1B28E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		C56BDB3B27D0B4DB00D100A0 /* BmadTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C56BDB3A27D0B4DB00D100A0 /* BmadTests.swift */; };
 		C56BDB6327D0DE1D00D100A0 /* Poppins-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6C7BB71D4395459E8E9556FE /* Poppins-Black.ttf */; };
 		C56BDB6427D0DE2000D100A0 /* Poppins-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2C625186D2B646F7B0AC3D0F /* Poppins-BlackItalic.ttf */; };
@@ -355,6 +355,7 @@
 				C56BDB8127D0DE5900D100A0 /* Poppins-SemiBoldItalic.ttf in Resources */,
 				C56BDB7127D0DE3C00D100A0 /* Poppins-ExtraLightItalic.ttf in Resources */,
 				C56BDB6327D0DE1D00D100A0 /* Poppins-Black.ttf in Resources */,
+				BCAFA42E28461A8A00B1B28E /* Images.xcassets in Resources */,
 				C56BDB7D27D0DE5400D100A0 /* Poppins-Regular.ttf in Resources */,
 				C56BDB6F27D0DE3900D100A0 /* Poppins-ExtraLight.ttf in Resources */,
 				C56BDB6627D0DE2A00D100A0 /* Poppins-Bold.ttf in Resources */,
@@ -364,7 +365,6 @@
 				C56BDB6927D0DE3200D100A0 /* Poppins-BoldItalic.ttf in Resources */,
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				C56BDB8527D0DE6000D100A0 /* Poppins-ThinItalic.ttf in Resources */,
-				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				C56BDB7F27D0DE5700D100A0 /* Poppins-SemiBold.ttf in Resources */,
 				BCAFA42B2845F7FD00B1B28E /* GoogleService-Info.plist in Resources */,
 			);
@@ -545,7 +545,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */,
+				BCAFA42D284616E500B1B28E /* AppDelegate.m in Sources */,
 				13B07FC11A68108700A75B9A /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
